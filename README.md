@@ -3,7 +3,6 @@
 
 ---
 
-## How to Use This File
 
 Each project below includes:
 
