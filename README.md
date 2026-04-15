@@ -16,7 +16,7 @@ Each project below includes:
 
 ## Project 1 — Restaurant & Butcher Customer SaaS (Multi-Tenant Platform)
 
-- **Client:** Systera (remote)
+- **Company.** Systera (remote)
 - **Stack:** Laravel 11, Livewire, FilamentPHP, PostgreSQL, Nginx, GitHub Actions
 - **What:** Built a multi-tenant SaaS platform for restaurants and butcher shops managing orders, menus, employees, and customers end-to-end.
 - **The hard part:** Designing a robust multi-tenancy architecture that isolates data per client while sharing infrastructure, combined with CI/CD automation for reliable deployments.
@@ -27,7 +27,7 @@ Each project below includes:
 
 ## Project 2 — Restaurant Supplier Marketplace SaaS
 
-- **Client:** Systera (remote)
+- **Company.** Systera (remote)
 - **Stack:** Laravel 11, Livewire, FilamentPHP, PostgreSQL
 - **What:** Developed a marketplace platform connecting restaurant suppliers to restaurants, handling supplier catalogs, product requests, and full order workflows.
 - **The hard part:** Modeling complex many-to-many supplier/restaurant relationships and building flexible order workflows that accommodate different catalog structures.
@@ -38,7 +38,7 @@ Each project below includes:
 
 ## Project 3 — Real Estate Platform
 
-- **Client:** Systera (remote)
+- **Company.** Systera (remote)
 - **Stack:** Laravel 11, Livewire, PostgreSQL
 - **What:** Built a real estate platform supporting property listings with buying, renting, and selling workflows.
 - **The hard part:** Handling multiple transaction types (buy/rent/sell) within a unified listing system while keeping the UI intuitive and the data model clean.
@@ -49,7 +49,7 @@ Each project below includes:
 
 ## Project 4 — E-Learning Platform Refactor
 
-- **Client:** Peritus Tech, Ariana Medina
+- **Company.** Peritus Tech, Ariana Medina
 - **Stack:** Laravel, MySQL, Docker, PHPUnit
 - **What:** Refactored an existing e-learning platform — improved code quality, restructured modules, and introduced comprehensive unit testing.
 - **The hard part:** Understanding and safely restructuring legacy code without breaking existing functionality, while adding test coverage from scratch.
@@ -60,7 +60,7 @@ Each project below includes:
 
 ## Project 5 — Security Analysis & Mehari Questionnaire Web Apps
 
-- **Client:** SmartSkills, Raoued
+- **Company.** SmartSkills, Raoued
 - **Stack:** Laravel, React, MySQL
 - **What:** Built web applications for security risk analysis and Mehari questionnaires, including data management and automated report generation.
 - **The hard part:** Translating a structured risk methodology (Mehari) into a dynamic, user-friendly digital workflow with automated reporting at the end.
@@ -71,7 +71,7 @@ Each project below includes:
 
 ## Project 6 — Freelance Platform with Real-Time Messaging & Payments
 
-- **Client:** Letaff, Tunis (Final Year Project)
+- **Company.** Letaff, Tunis (Final Year Project)
 - **Stack:** React, Node.js, MongoDB, Stripe
 - **What:** Designed and built a full freelance marketplace platform featuring real-time messaging between clients and freelancers, and integrated Stripe for payment processing.
 - **The hard part:** Building reliable real-time communication alongside a secure payment flow — two inherently complex systems — within a final-year project timeline.
